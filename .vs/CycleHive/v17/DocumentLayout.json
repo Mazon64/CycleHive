@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11EDF65E-A36A-4E68-A90A-F4E6881B49F5}|CycleHive\\CycleHive\\CycleHive.csproj|c:\\users\\dayar\\onedrive\\documentos\\visual studio 2022\\source\\repos\\cyclehive\\cyclehive\\cyclehive\\components\\pages\\alquilerform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11EDF65E-A36A-4E68-A90A-F4E6881B49F5}|CycleHive\\CycleHive\\CycleHive.csproj|solutionrelative:cyclehive\\cyclehive\\components\\pages\\alquilerform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EDF65E-A36A-4E68-A90A-F4E6881B49F5}|CycleHive\\CycleHive\\CycleHive.csproj|c:\\users\\dayar\\onedrive\\documentos\\visual studio 2022\\source\\repos\\cyclehive\\cyclehive\\cyclehive\\components\\pages\\alquilerindex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11EDF65E-A36A-4E68-A90A-F4E6881B49F5}|CycleHive\\CycleHive\\CycleHive.csproj|solutionrelative:cyclehive\\cyclehive\\components\\pages\\alquilerindex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EDF65E-A36A-4E68-A90A-F4E6881B49F5}|CycleHive\\CycleHive\\CycleHive.csproj|c:\\users\\dayar\\onedrive\\documentos\\visual studio 2022\\source\\repos\\cyclehive\\cyclehive\\cyclehive\\migrations\\20240519005842_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EDF65E-A36A-4E68-A90A-F4E6881B49F5}|CycleHive\\CycleHive\\CycleHive.csproj|solutionrelative:cyclehive\\cyclehive\\migrations\\20240519005842_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EDF65E-A36A-4E68-A90A-F4E6881B49F5}|CycleHive\\CycleHive\\CycleHive.csproj|c:\\users\\dayar\\onedrive\\documentos\\visual studio 2022\\source\\repos\\cyclehive\\cyclehive\\cyclehive\\models\\cyclehivedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EDF65E-A36A-4E68-A90A-F4E6881B49F5}|CycleHive\\CycleHive\\CycleHive.csproj|solutionrelative:cyclehive\\cyclehive\\models\\cyclehivedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EDF65E-A36A-4E68-A90A-F4E6881B49F5}|CycleHive\\CycleHive\\CycleHive.csproj|c:\\users\\dayar\\onedrive\\documentos\\visual studio 2022\\source\\repos\\cyclehive\\cyclehive\\cyclehive\\repository\\irepositoryalquileres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EDF65E-A36A-4E68-A90A-F4E6881B49F5}|CycleHive\\CycleHive\\CycleHive.csproj|solutionrelative:cyclehive\\cyclehive\\repository\\irepositoryalquileres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EDF65E-A36A-4E68-A90A-F4E6881B49F5}|CycleHive\\CycleHive\\CycleHive.csproj|c:\\users\\dayar\\onedrive\\documentos\\visual studio 2022\\source\\repos\\cyclehive\\cyclehive\\cyclehive\\models\\alquiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EDF65E-A36A-4E68-A90A-F4E6881B49F5}|CycleHive\\CycleHive\\CycleHive.csproj|solutionrelative:cyclehive\\cyclehive\\models\\alquiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EDF65E-A36A-4E68-A90A-F4E6881B49F5}|CycleHive\\CycleHive\\CycleHive.csproj|c:\\users\\dayar\\onedrive\\documentos\\visual studio 2022\\source\\repos\\cyclehive\\cyclehive\\cyclehive\\repository\\repositoryalquileres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EDF65E-A36A-4E68-A90A-F4E6881B49F5}|CycleHive\\CycleHive\\CycleHive.csproj|solutionrelative:cyclehive\\cyclehive\\repository\\repositoryalquileres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240519005842_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive\\Migrations\\20240519005842_Inicial.cs",
+              "RelativeDocumentMoniker": "CycleHive\\CycleHive\\Migrations\\20240519005842_Inicial.cs",
+              "ToolTip": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive\\Migrations\\20240519005842_Inicial.cs",
+              "RelativeToolTip": "CycleHive\\CycleHive\\Migrations\\20240519005842_Inicial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T00:58:42.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CycleHiveDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive\\Models\\CycleHiveDBContext.cs",
+              "RelativeDocumentMoniker": "CycleHive\\CycleHive\\Models\\CycleHiveDBContext.cs",
+              "ToolTip": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive\\Models\\CycleHiveDBContext.cs",
+              "RelativeToolTip": "CycleHive\\CycleHive\\Models\\CycleHiveDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T01:58:05.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepositoryAlquileres.cs",
+              "DocumentMoniker": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive\\Repository\\IRepositoryAlquileres.cs",
+              "RelativeDocumentMoniker": "CycleHive\\CycleHive\\Repository\\IRepositoryAlquileres.cs",
+              "ToolTip": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive\\Repository\\IRepositoryAlquileres.cs",
+              "RelativeToolTip": "CycleHive\\CycleHive\\Repository\\IRepositoryAlquileres.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T22:04:50.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RepositoryAlquileres.cs",
+              "DocumentMoniker": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive\\Repository\\RepositoryAlquileres.cs",
+              "RelativeDocumentMoniker": "CycleHive\\CycleHive\\Repository\\RepositoryAlquileres.cs",
+              "ToolTip": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive\\Repository\\RepositoryAlquileres.cs",
+              "RelativeToolTip": "CycleHive\\CycleHive\\Repository\\RepositoryAlquileres.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T22:05:05.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Alquiler.cs",
+              "DocumentMoniker": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive\\Models\\Alquiler.cs",
+              "RelativeDocumentMoniker": "CycleHive\\CycleHive\\Models\\Alquiler.cs",
+              "ToolTip": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive\\Models\\Alquiler.cs",
+              "RelativeToolTip": "CycleHive\\CycleHive\\Models\\Alquiler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T21:44:23.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlquilerIndex.razor",
+              "DocumentMoniker": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive\\Components\\Pages\\AlquilerIndex.razor",
+              "RelativeDocumentMoniker": "CycleHive\\CycleHive\\Components\\Pages\\AlquilerIndex.razor",
+              "ToolTip": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive\\Components\\Pages\\AlquilerIndex.razor",
+              "RelativeToolTip": "CycleHive\\CycleHive\\Components\\Pages\\AlquilerIndex.razor",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAUwCUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T22:44:52.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlquilerForm.razor",
+              "DocumentMoniker": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive\\Components\\Pages\\AlquilerForm.razor",
+              "RelativeDocumentMoniker": "CycleHive\\CycleHive\\Components\\Pages\\AlquilerForm.razor",
+              "ToolTip": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive\\Components\\Pages\\AlquilerForm.razor",
+              "RelativeToolTip": "CycleHive\\CycleHive\\Components\\Pages\\AlquilerForm.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T22:44:31.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

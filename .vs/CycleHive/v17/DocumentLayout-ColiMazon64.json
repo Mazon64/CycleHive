@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11EDF65E-A36A-4E68-A90A-F4E6881B49F5}|CycleHive\\CycleHive\\CycleHive.csproj|c:\\users\\dayar\\onedrive\\documentos\\visual studio 2022\\source\\repos\\cyclehive\\cyclehive\\cyclehive\\components\\pages\\clientesform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11EDF65E-A36A-4E68-A90A-F4E6881B49F5}|CycleHive\\CycleHive\\CycleHive.csproj|solutionrelative:cyclehive\\cyclehive\\components\\pages\\clientesform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EDF65E-A36A-4E68-A90A-F4E6881B49F5}|CycleHive\\CycleHive\\CycleHive.csproj|c:\\users\\dayar\\onedrive\\documentos\\visual studio 2022\\source\\repos\\cyclehive\\cyclehive\\cyclehive\\components\\pages\\clientesindex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11EDF65E-A36A-4E68-A90A-F4E6881B49F5}|CycleHive\\CycleHive\\CycleHive.csproj|solutionrelative:cyclehive\\cyclehive\\components\\pages\\clientesindex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EDF65E-A36A-4E68-A90A-F4E6881B49F5}|CycleHive\\CycleHive\\CycleHive.csproj|c:\\users\\dayar\\onedrive\\documentos\\visual studio 2022\\source\\repos\\cyclehive\\cyclehive\\cyclehive\\models\\cyclehivedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EDF65E-A36A-4E68-A90A-F4E6881B49F5}|CycleHive\\CycleHive\\CycleHive.csproj|solutionrelative:cyclehive\\cyclehive\\models\\cyclehivedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EDF65E-A36A-4E68-A90A-F4E6881B49F5}|CycleHive\\CycleHive\\CycleHive.csproj|c:\\users\\dayar\\onedrive\\documentos\\visual studio 2022\\source\\repos\\cyclehive\\cyclehive\\cyclehive\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EDF65E-A36A-4E68-A90A-F4E6881B49F5}|CycleHive\\CycleHive\\CycleHive.csproj|solutionrelative:cyclehive\\cyclehive\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EDF65E-A36A-4E68-A90A-F4E6881B49F5}|CycleHive\\CycleHive\\CycleHive.csproj|c:\\users\\dayar\\onedrive\\documentos\\visual studio 2022\\source\\repos\\cyclehive\\cyclehive\\cyclehive\\repository\\irepositoryclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EDF65E-A36A-4E68-A90A-F4E6881B49F5}|CycleHive\\CycleHive\\CycleHive.csproj|solutionrelative:cyclehive\\cyclehive\\repository\\irepositoryclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EDF65E-A36A-4E68-A90A-F4E6881B49F5}|CycleHive\\CycleHive\\CycleHive.csproj|c:\\users\\dayar\\onedrive\\documentos\\visual studio 2022\\source\\repos\\cyclehive\\cyclehive\\cyclehive\\repository\\repositoryclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EDF65E-A36A-4E68-A90A-F4E6881B49F5}|CycleHive\\CycleHive\\CycleHive.csproj|solutionrelative:cyclehive\\cyclehive\\repository\\repositoryclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RepositoryClientes.cs",
+              "DocumentMoniker": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive\\Repository\\RepositoryClientes.cs",
+              "RelativeDocumentMoniker": "CycleHive\\CycleHive\\Repository\\RepositoryClientes.cs",
+              "ToolTip": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive\\Repository\\RepositoryClientes.cs",
+              "RelativeToolTip": "CycleHive\\CycleHive\\Repository\\RepositoryClientes.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T01:58:08.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepositoryClientes.cs",
+              "DocumentMoniker": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive\\Repository\\IRepositoryClientes.cs",
+              "RelativeDocumentMoniker": "CycleHive\\CycleHive\\Repository\\IRepositoryClientes.cs",
+              "ToolTip": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive\\Repository\\IRepositoryClientes.cs",
+              "RelativeToolTip": "CycleHive\\CycleHive\\Repository\\IRepositoryClientes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T01:58:07.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "CycleHive\\CycleHive\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive\\Models\\Cliente.cs",
+              "RelativeToolTip": "CycleHive\\CycleHive\\Models\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T01:58:03.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CycleHiveDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive\\Models\\CycleHiveDBContext.cs",
+              "RelativeDocumentMoniker": "CycleHive\\CycleHive\\Models\\CycleHiveDBContext.cs",
+              "ToolTip": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive\\Models\\CycleHiveDBContext.cs",
+              "RelativeToolTip": "CycleHive\\CycleHive\\Models\\CycleHiveDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T01:58:05.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientesIndex.razor",
+              "DocumentMoniker": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive\\Components\\Pages\\ClientesIndex.razor",
+              "RelativeDocumentMoniker": "CycleHive\\CycleHive\\Components\\Pages\\ClientesIndex.razor",
+              "ToolTip": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive\\Components\\Pages\\ClientesIndex.razor",
+              "RelativeToolTip": "CycleHive\\CycleHive\\Components\\Pages\\ClientesIndex.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T01:57:58.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientesForm.razor",
+              "DocumentMoniker": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive\\Components\\Pages\\ClientesForm.razor",
+              "RelativeDocumentMoniker": "CycleHive\\CycleHive\\Components\\Pages\\ClientesForm.razor",
+              "ToolTip": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive\\Components\\Pages\\ClientesForm.razor",
+              "RelativeToolTip": "CycleHive\\CycleHive\\Components\\Pages\\ClientesForm.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T01:57:56.879Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

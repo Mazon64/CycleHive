@@ -1,0 +1,104 @@
+﻿@page "/alquileres/nuevo"
+@page "/alquileres/editar/{Id:int}"
+@rendermode InteractiveServer
+@inject NavigationManager _navigator
+@inject IRepositoryAlquileres _repositorio
+@inject IRepositoryClientes _repositorioClientes
+@inject IRepositoryBicicletas _repositorioBicicletas
+
+<h2>@_mensaje Alquiler</h2>
+<EditForm Model="_alquiler" FormName="frmAlquiler" OnValidSubmit="Guardar">
+    <DataAnnotationsValidator />
+
+    <div class="row mb-3">
+        <label for="cboCliente" class="col-sm-2 col-form-label">Cliente</label>
+        <div class="col-sm-10">
+            <InputSelect id="cboCliente" class="form-control" @bind-Value="_alquiler.ClienteId">
+                <option value="">Seleccione un cliente</option>
+                @foreach (var cliente in _clientes)
+                {
+                    <option value="@cliente.Id">@cliente.Nombre</option>
+                }
+            </InputSelect>
+            <ValidationMessage For="@(() => _alquiler.ClienteId)" />
+        </div>
+    </div>
+
+    <div class="row mb-3">
+        <label for="cboBicicleta" class="col-sm-2 col-form-label">Bicicleta</label>
+        <div class="col-sm-10">
+            <InputSelect id="cboBicicleta" class="form-control" @bind-Value="_alquiler.BicicletaId">
+                <option value="">Seleccione una bicicleta</option>
+                @foreach (var bicicleta in _bicicletas)
+                {
+                    <option value="@bicicleta.Id">@bicicleta.Marca @bicicleta.Modelo</option>
+                }
+            </InputSelect>
+            <ValidationMessage For="@(() => _alquiler.BicicletaId)" />
+        </div>
+    </div>
+
+    <div class="row mb-3">
+        <label for="txtFechaInicio" class="col-sm-2 col-form-label">Fecha de inicio</label>
+        <div class="col-sm-10">
+            <InputDate id="txtFechaInicio" class="form-control" @bind-Value="_alquiler.FechaInicio" />
+            <ValidationMessage For="@(() => _alquiler.FechaInicio)" />
+        </div>
+    </div>
+
+    <div class="row mb-3">
+        <label for="txtFechaFin" class="col-sm-2 col-form-label">Fecha de fin</label>
+        <div class="col-sm-10">
+            <InputDate id="txtFechaFin" class="form-control" @bind-Value="_alquiler.FechaFin" />
+            <ValidationMessage For="@(() => _alquiler.FechaFin)" />
+        </div>
+    </div>
+    <button type="submit"
+            class="btn btn-primary">
+        Guardar
+    </button>
+    <button class="btn btn-danger" @onclick="Cancelar" @onclick:preventDefault>Cancelar</button>
+</EditForm>
+
+@code {
+    [Parameter]
+    public int Id { get; set; }
+    private string _mensaje = "";
+    private Alquiler? _alquiler = new Alquiler();
+    private List<Cliente> _clientes = new List<Cliente>();
+    private List<Bicicleta> _bicicletas = new List<Bicicleta>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        _clientes = await _repositorioClientes.GetAll();
+        _bicicletas = await _repositorioBicicletas.GetAll();
+
+        if (Id > 0)
+        {
+            _mensaje = "Editar";
+            _alquiler = await _repositorio.Get(Id);
+        }
+        else
+        {
+            _mensaje = "Nuevo";
+        }
+    }
+
+    private async Task Guardar()
+    {
+        if (Id > 0)
+        {
+            await _repositorio.Update(Id, _alquiler!);
+        }
+        else
+        {
+            await _repositorio.Add(_alquiler!);
+        }
+        _navigator.NavigateTo("/alquileres");
+    }
+
+    private void Cancelar()
+    {
+        _navigator.NavigateTo("/alquileres");
+    }
+}

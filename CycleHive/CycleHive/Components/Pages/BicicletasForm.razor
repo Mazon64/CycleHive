@@ -1,0 +1,101 @@
+﻿@page "/bicicletas/nuevo"
+@page "/bicicletas/editar/{Id:int}"
+@rendermode InteractiveServer
+@inject NavigationManager _navigator
+@inject IRepositoryBicicletas _repositorio
+
+<h2>@_mensaje Bicicleta</h2>
+<EditForm Model="_bicicleta" FormName="frmBicicleta" OnValidSubmit="Guardar">
+    <DataAnnotationsValidator />
+
+    <div class="row mb-3">
+        <label for="txtMarca" class="col-sm-2 col-form-label">Marca</label>
+        <div class="col-sm-10">
+            <InputText id="txtMarca" class="form-control" @bind-Value="_bicicleta.Marca" />
+            <ValidationMessage For="@(() => _bicicleta.Marca)" />
+        </div>
+    </div>
+
+    <div class="row mb-3">
+        <label for="txtModelo" class="col-sm-2 col-form-label">Modelo</label>
+        <div class="col-sm-10">
+            <InputText id="txtModelo" class="form-control" @bind-Value="_bicicleta.Modelo" />
+            <ValidationMessage For="@(() => _bicicleta.Modelo)" />
+        </div>
+    </div>
+
+    <div class="row mb-3">
+        <label for="txtColor" class="col-sm-2 col-form-label">Color</label>
+        <div class="col-sm-10">
+            <InputText id="txtColor" class="form-control" @bind-Value="_bicicleta.Color" />
+            <ValidationMessage For="@(() => _bicicleta.Color)" />
+        </div>
+    </div>
+
+    <div class="row mb-3">
+        <label for="txtTamaño" class="col-sm-2 col-form-label">Tamaño</label>
+        <div class="col-sm-10">
+            <InputText id="txtTamaño" class="form-control" @bind-Value="_bicicleta.Tamaño" />
+            <ValidationMessage For="@(() => _bicicleta.Tamaño)" />
+        </div>
+    </div>
+
+    <div class="row mb-3">
+        <label for="txtTipo" class="col-sm-2 col-form-label">Tipo</label>
+        <div class="col-sm-10">
+            <InputText id="txtTipo" class="form-control" @bind-Value="_bicicleta.Tipo" />
+            <ValidationMessage For="@(() => _bicicleta.Tipo)" />
+        </div>
+    </div>
+
+    <div class="row mb-3">
+        <label for="txtPrecio" class="col-sm-2 col-form-label">Precio</label>
+        <div class="col-sm-10">
+            <InputNumber id="txtPrecio" class="form-control" @bind-Value="_bicicleta.Precio" />
+            <ValidationMessage For="@(() => _bicicleta.Precio)" />
+        </div>
+    </div>
+
+    <button type="submit"
+            class="btn btn-primary">
+        Guardar
+    </button>
+    <button class="btn btn-danger" @onclick="Cancelar" @onclick:preventDefault>Cancelar</button>
+</EditForm>
+
+@code {
+    [Parameter]
+    public int Id { get; set; }
+    private string _mensaje = "";
+    private Bicicleta? _bicicleta = new Bicicleta();
+    protected override async Task OnInitializedAsync()
+    {
+        if (Id > 0)
+        {
+            _mensaje = "Editar";
+            _bicicleta = await _repositorio.Get(Id);
+        }
+        else
+        {
+            _mensaje = "Nuevo";
+        }
+    }
+
+    private async Task Guardar()
+    {
+        if (Id > 0)
+        {
+            await _repositorio.Update(Id, _bicicleta!);
+        }
+        else
+        {
+            await _repositorio.Add(_bicicleta!);
+        }
+        _navigator.NavigateTo("/bicicletas");
+    }
+
+    private void Cancelar()
+    {
+        _navigator.NavigateTo("/bicicletas");
+    }
+}
