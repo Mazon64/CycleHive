@@ -160,3 +160,4 @@ C:\Users\dayar\OneDrive\Documentos\Visual Studio 2022\source\repos\CycleHive\Cyc
 C:\Users\dayar\OneDrive\Documentos\Visual Studio 2022\source\repos\CycleHive\CycleHive\CycleHive\obj\Debug\net8.0\CycleHive.pdb
 C:\Users\dayar\OneDrive\Documentos\Visual Studio 2022\source\repos\CycleHive\CycleHive\CycleHive\obj\Debug\net8.0\CycleHive.genruntimeconfig.cache
 C:\Users\dayar\OneDrive\Documentos\Visual Studio 2022\source\repos\CycleHive\CycleHive\CycleHive\obj\Debug\net8.0\ref\CycleHive.dll
+C:\Users\dayar\OneDrive\Documentos\Visual Studio 2022\source\repos\CycleHive\CycleHive\CycleHive\obj\Debug\net8.0\CycleHive.sourcelink.json

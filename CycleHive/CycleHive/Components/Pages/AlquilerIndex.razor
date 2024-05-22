@@ -2,10 +2,8 @@
 @rendermode InteractiveServer
 @inject NavigationManager _navigator
 @inject IRepositoryAlquileres _repositorio
-@inject IRepositoryBicicletas _repositorioBicicletas
-@inject IRepositoryClientes _repositorioClientes
 
-<h3>Listado de alquileres CycleHive</h3>
+<h3>Listado de alquileres de CycleHive</h3>
 <a class="btn btn-success" href="/alquileres/nuevo">Agregar alquiler</a>
 @if (_alquileres == null)
 {
@@ -21,24 +19,24 @@ else if (_alquileres.Count == 0)
 }
 else
 {
-    <table class="table table-striped">
+    <table class="table">
         <thead>
             <tr>
                 <th>Cliente</th>
                 <th>Bicicleta</th>
                 <th>Fecha de inicio</th>
                 <th>Fecha de fin</th>
-                <th>Acciones</th>
+                <th></th>
             </tr>
         </thead>
         <tbody>
             @foreach (var alquiler in _alquileres)
             {
                 <tr>
-                    <td>@alquiler.ClienteId</td>
-                    <td>@alquiler.BicicletaId</td>
-                    <td>@alquiler.FechaInicio</td>
-                    <td>@alquiler.FechaFin</td>
+                    <td>@alquiler.Cliente.Nombre</td>
+                    <td>@alquiler.Bicicleta.Marca @alquiler.Bicicleta.Modelo</td>
+                    <td>@alquiler.FechaInicio.ToShortDateString()</td>
+                    <td>@alquiler.FechaFin.ToShortDateString()</td>
                     <td>
                         <button class="btn btn-primary" @onclick="() => EditAlquiler(alquiler.Id)">
                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="white" class="bi bi-pencil-square" viewBox="0 0 16 16">
@@ -60,15 +58,21 @@ else
 
 @code {
     private List<Alquiler>? _alquileres;
+    private Alquiler? _alquiler;
+    private List<Bicicleta>? _bicicletas;
+    private List<Cliente>? _clientes;
+    private string _mensaje = "Nuevo";
 
     protected override async Task OnInitializedAsync()
     {
         _alquileres = await _repositorio.GetAll();
+        _clientes = await _repositorio.GetClientes();
+        _bicicletas = await _repositorio.GetBicicletas();
     }
 
-    private void EditAlquiler(int id)
+    private void EditAlquiler(int alquilerId)
     {
-        _navigator.NavigateTo($"/alquileres/editar/{id}");
+        _navigator.NavigateTo($"/alquileres/editar/{alquilerId}");
     }
 
     private async void DeleteAlquiler(Alquiler alquiler)

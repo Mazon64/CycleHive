@@ -3,21 +3,23 @@
 @rendermode InteractiveServer
 @inject NavigationManager _navigator
 @inject IRepositoryAlquileres _repositorio
-@inject IRepositoryClientes _repositorioClientes
-@inject IRepositoryBicicletas _repositorioBicicletas
 
 <h2>@_mensaje Alquiler</h2>
-<EditForm Model="_alquiler" FormName="frmAlquiler" OnValidSubmit="Guardar">
+<EditForm Model="_alquiler" OnValidSubmit="Guardar">
     <DataAnnotationsValidator />
+    <ValidationSummary />
 
     <div class="row mb-3">
         <label for="cboCliente" class="col-sm-2 col-form-label">Cliente</label>
         <div class="col-sm-10">
             <InputSelect id="cboCliente" class="form-control" @bind-Value="_alquiler.ClienteId">
                 <option value="">Seleccione un cliente</option>
-                @foreach (var cliente in _clientes)
+                @if (_clientes != null)
                 {
-                    <option value="@cliente.Id">@cliente.Nombre</option>
+                    @foreach (Cliente cliente in _clientes)
+                    {
+                        <option value="@cliente.Id">@cliente.Nombre</option>
+                    }
                 }
             </InputSelect>
             <ValidationMessage For="@(() => _alquiler.ClienteId)" />
@@ -29,9 +31,12 @@
         <div class="col-sm-10">
             <InputSelect id="cboBicicleta" class="form-control" @bind-Value="_alquiler.BicicletaId">
                 <option value="">Seleccione una bicicleta</option>
-                @foreach (var bicicleta in _bicicletas)
+                @if (_bicicletas != null)
                 {
-                    <option value="@bicicleta.Id">@bicicleta.Marca @bicicleta.Modelo</option>
+                    @foreach (Bicicleta bicicleta in _bicicletas)
+                    {
+                        <option value="@bicicleta.Id">@bicicleta.Marca @bicicleta.Modelo</option>
+                    }
                 }
             </InputSelect>
             <ValidationMessage For="@(() => _alquiler.BicicletaId)" />
@@ -39,24 +44,22 @@
     </div>
 
     <div class="row mb-3">
-        <label for="txtFechaInicio" class="col-sm-2 col-form-label">Fecha de inicio</label>
+        <label for="dtpFechaInicio" class="col-sm-2 col-form-label">Fecha de inicio</label>
         <div class="col-sm-10">
-            <InputDate id="txtFechaInicio" class="form-control" @bind-Value="_alquiler.FechaInicio" />
+            <InputDate id="dtpFechaInicio" class="form-control" @bind-Value="_alquiler.FechaInicio" min="@_minFecha" max="@_maxFecha" />
             <ValidationMessage For="@(() => _alquiler.FechaInicio)" />
         </div>
     </div>
 
     <div class="row mb-3">
-        <label for="txtFechaFin" class="col-sm-2 col-form-label">Fecha de fin</label>
+        <label for="dtpFechaFin" class="col-sm-2 col-form-label">Fecha de fin</label>
         <div class="col-sm-10">
-            <InputDate id="txtFechaFin" class="form-control" @bind-Value="_alquiler.FechaFin" />
+            <InputDate id="dtpFechaFin" class="form-control" @bind-Value="_alquiler.FechaFin" min="@_minFecha" max="@_maxFecha" />
             <ValidationMessage For="@(() => _alquiler.FechaFin)" />
         </div>
     </div>
-    <button type="submit"
-            class="btn btn-primary">
-        Guardar
-    </button>
+
+    <button type="submit" class="btn btn-primary">Guardar</button>
     <button class="btn btn-danger" @onclick="Cancelar" @onclick:preventDefault>Cancelar</button>
 </EditForm>
 
@@ -64,14 +67,16 @@
     [Parameter]
     public int Id { get; set; }
     private string _mensaje = "";
-    private Alquiler? _alquiler = new Alquiler();
-    private List<Cliente> _clientes = new List<Cliente>();
-    private List<Bicicleta> _bicicletas = new List<Bicicleta>();
+    private Alquiler _alquiler = new Alquiler();
+    private List<Bicicleta>? _bicicletas = new();
+    private List<Cliente>? _clientes = new();
+    private string _minFecha = DateTime.Now.ToString("yyyy-MM-dd");
+    private string _maxFecha = DateTime.Now.AddDays(30).ToString("yyyy-MM-dd");
 
     protected override async Task OnInitializedAsync()
     {
-        _clientes = await _repositorioClientes.GetAll();
-        _bicicletas = await _repositorioBicicletas.GetAll();
+        _clientes = await _repositorio.GetClientes();
+        _bicicletas = await _repositorio.GetBicicletas();
 
         if (Id > 0)
         {
@@ -86,13 +91,22 @@
 
     private async Task Guardar()
     {
+        if (_clientes != null)
+        {
+            _alquiler.Cliente = _clientes.FirstOrDefault(c => c.Id == _alquiler.ClienteId);
+        }
+        if (_bicicletas != null)
+        {
+            _alquiler.Bicicleta = _bicicletas.FirstOrDefault(b => b.Id == _alquiler.BicicletaId);
+        }
+
         if (Id > 0)
         {
-            await _repositorio.Update(Id, _alquiler!);
+            await _repositorio.Update(Id, _alquiler);
         }
         else
         {
-            await _repositorio.Add(_alquiler!);
+            await _repositorio.Add(_alquiler);
         }
         _navigator.NavigateTo("/alquileres");
     }

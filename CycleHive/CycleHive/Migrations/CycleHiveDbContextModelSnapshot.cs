@@ -126,13 +126,13 @@ namespace CycleHive.Migrations
             modelBuilder.Entity("CycleHive.Models.Alquiler", b =>
                 {
                     b.HasOne("CycleHive.Models.Bicicleta", "Bicicleta")
-                        .WithMany()
+                        .WithMany("Alquileres")
                         .HasForeignKey("BicicletaId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.HasOne("CycleHive.Models.Cliente", "Cliente")
-                        .WithMany()
+                        .WithMany("Alquileres")
                         .HasForeignKey("ClienteId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -140,6 +140,16 @@ namespace CycleHive.Migrations
                     b.Navigation("Bicicleta");
 
                     b.Navigation("Cliente");
+                });
+
+            modelBuilder.Entity("CycleHive.Models.Bicicleta", b =>
+                {
+                    b.Navigation("Alquileres");
+                });
+
+            modelBuilder.Entity("CycleHive.Models.Cliente", b =>
+                {
+                    b.Navigation("Alquileres");
                 });
 #pragma warning restore 612, 618
         }

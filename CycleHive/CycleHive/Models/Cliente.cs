@@ -17,5 +17,6 @@ namespace CycleHive.Models
         [Required(ErrorMessage = "El correo es requerido")]
         [EmailAddress(ErrorMessage = "Correo inválido")]
         public string? Correo { get; set; }
+        public virtual ICollection<Alquiler>? Alquileres { get; set; }
     }
 }

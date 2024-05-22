@@ -17,6 +17,16 @@ namespace CycleHive.Repository
             return await _context.Alquileres.ToListAsync();
         }
 
+        public async Task<List<Bicicleta>> GetBicicletas()
+        {
+            return await _context.Bicicletas.ToListAsync();
+        }
+
+        public async Task<List<Cliente>> GetClientes()
+        {
+            return await _context.Clientes.ToListAsync();
+        }
+
         public async Task<Alquiler?> Get(int id)
         {
             return await _context.Alquileres.FindAsync(id);
@@ -36,7 +46,9 @@ namespace CycleHive.Repository
             {
                 alquilerToUpdate.FechaInicio = alquiler.FechaInicio;
                 alquilerToUpdate.FechaFin = alquiler.FechaFin;
+                alquilerToUpdate.ClienteId = alquiler.ClienteId;
                 alquilerToUpdate.Cliente = alquiler.Cliente;
+                alquilerToUpdate.BicicletaId = alquiler.BicicletaId;
                 alquilerToUpdate.Bicicleta = alquiler.Bicicleta;
                 await _context.SaveChangesAsync();
             }

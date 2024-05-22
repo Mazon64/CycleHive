@@ -22,5 +22,6 @@ namespace CycleHive.Models
         public string? Tipo { get; set; }
         [Required(ErrorMessage = "El precio es requerido")]
         public double Precio { get; set; }
+        public virtual ICollection<Alquiler>? Alquileres { get; set; }
     }
 }
