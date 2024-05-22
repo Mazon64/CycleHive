@@ -29,7 +29,7 @@
     <div class="row mb-3">
         <label for="cboBicicleta" class="col-sm-2 col-form-label">Bicicleta</label>
         <div class="col-sm-10">
-            <InputSelect id="cboBicicleta" class="form-control" @bind-Value="_alquiler.BicicletaId">
+            <InputSelect id="cboBicicleta" class="form-control" @bind-Value="_alquiler.BicicletaId" @onchange="ActualizarPrecioTotal">
                 <option value="">Seleccione una bicicleta</option>
                 @if (_bicicletas != null)
                 {
@@ -46,7 +46,7 @@
     <div class="row mb-3">
         <label for="dtpFechaInicio" class="col-sm-2 col-form-label">Fecha de inicio</label>
         <div class="col-sm-10">
-            <InputDate id="dtpFechaInicio" class="form-control" @bind-Value="_alquiler.FechaInicio" min="@_minFecha" max="@_maxFecha" />
+            <InputDate id="dtpFechaInicio" class="form-control" @bind-Value="_alquiler.FechaInicio" min="@_minFecha" max="@_maxFecha" @onchange="ActualizarPrecioTotal" />
             <ValidationMessage For="@(() => _alquiler.FechaInicio)" />
         </div>
     </div>
@@ -54,8 +54,15 @@
     <div class="row mb-3">
         <label for="dtpFechaFin" class="col-sm-2 col-form-label">Fecha de fin</label>
         <div class="col-sm-10">
-            <InputDate id="dtpFechaFin" class="form-control" @bind-Value="_alquiler.FechaFin" min="@_minFecha" max="@_maxFecha" />
+            <InputDate id="dtpFechaFin" class="form-control" @bind-Value="_alquiler.FechaFin" min="@_minFecha" max="@_maxFecha" @onchange="ActualizarPrecioTotal" />
             <ValidationMessage For="@(() => _alquiler.FechaFin)" />
+        </div>
+    </div>
+
+    <div class="row mb-3">
+        <label for="txtPrecioTotal" class="col-sm-2 col-form-label">Precio Total</label>
+        <div class="col-sm-10">
+            <input id="txtPrecioTotal" class="form-control" type="text" value="@PrecioTotal.ToString("C")" readonly />
         </div>
     </div>
 
@@ -72,6 +79,7 @@
     private List<Cliente>? _clientes = new();
     private string _minFecha = DateTime.Now.ToString("yyyy-MM-dd");
     private string _maxFecha = DateTime.Now.AddDays(30).ToString("yyyy-MM-dd");
+    private double PrecioTotal { get; set; } = 0;
 
     protected override async Task OnInitializedAsync()
     {
@@ -87,6 +95,7 @@
         {
             _mensaje = "Nuevo";
         }
+        ActualizarPrecioTotal();
     }
 
     private async Task Guardar()
@@ -99,6 +108,9 @@
         {
             _alquiler.Bicicleta = _bicicletas.FirstOrDefault(b => b.Id == _alquiler.BicicletaId);
         }
+
+        ActualizarPrecioTotal();
+        _alquiler.PrecioTotal = (int)PrecioTotal;
 
         if (Id > 0)
         {
@@ -114,5 +126,26 @@
     private void Cancelar()
     {
         _navigator.NavigateTo("/alquileres");
+    }
+
+    private void ActualizarPrecioTotal()
+    {
+        if (_alquiler.FechaInicio != default && _alquiler.FechaFin != default && _alquiler.BicicletaId != 0)
+        {
+            var bicicleta = _bicicletas.FirstOrDefault(b => b.Id == _alquiler.BicicletaId);
+            if (bicicleta != null)
+            {
+                int dias = (_alquiler.FechaFin - _alquiler.FechaInicio).Days + 1; // Incluye el día de inicio y fin
+                PrecioTotal = dias * bicicleta.Precio;
+            }
+            else
+            {
+                PrecioTotal = 0;
+            }
+        }
+        else
+        {
+            PrecioTotal = 0;
+        }
     }
 }

@@ -23,6 +23,8 @@ namespace CycleHive.Models
         [Required(ErrorMessage = "La fecha de fin es requerida")]
         [DataType(DataType.Date)]
         public DateTime FechaFin { get; set; }
+        
+        public int PrecioTotal { get; set;  }
 
         public IEnumerable<ValidationResult> Validate(ValidationContext validationContext)
         {

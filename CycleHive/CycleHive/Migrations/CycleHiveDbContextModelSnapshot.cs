@@ -42,6 +42,9 @@ namespace CycleHive.Migrations
                     b.Property<DateTime>("FechaInicio")
                         .HasColumnType("datetime2");
 
+                    b.Property<int>("PrecioTotal")
+                        .HasColumnType("int");
+
                     b.HasKey("Id");
 
                     b.HasIndex("BicicletaId");
