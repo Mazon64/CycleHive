@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("CycleHive")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("CycleHive 1.0")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+489447a7e95ebcb14eb6eec9c168b108c1546e08")]
-[assembly: System.Reflection.AssemblyProductAttribute("CycleHive")]
-[assembly: System.Reflection.AssemblyTitleAttribute("CycleHive")]
+[assembly: System.Reflection.AssemblyProductAttribute("CycleHive 1.0")]
+[assembly: System.Reflection.AssemblyTitleAttribute("CycleHive 1.0")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
