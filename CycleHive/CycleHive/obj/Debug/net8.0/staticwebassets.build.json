@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "RF29QcD4i+uNTmXNWBJMUF1Qnvp6sCe5t/V8Ln9T/yY=",
+  "Hash": "NZYRr17zNjwHRFPzNhEIYKkSbSsCiHDIm1D6e+cWi2E=",
   "Source": "CycleHive",
   "BasePath": "_content/CycleHive",
   "Mode": "Default",
@@ -128,7 +128,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dayar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.3\\runtimes\\browser-wasm\\native\\dotnet.js"
+      "OriginalItemSpec": "C:\\Users\\dayar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.5\\runtimes\\browser-wasm\\native\\dotnet.js"
     },
     {
       "Identity": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
@@ -147,15 +147,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dayar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.3\\runtimes\\browser-wasm\\native\\dotnet.js.map"
+      "OriginalItemSpec": "C:\\Users\\dayar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.5\\runtimes\\browser-wasm\\native\\dotnet.js.map"
     },
     {
-      "Identity": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.3.8fq3y7ihlm.js",
+      "Identity": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.5.whbh2uttz1.js",
       "SourceId": "CycleHive.Client",
       "SourceType": "Project",
       "ContentRoot": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.3.8fq3y7ihlm.js",
+      "RelativePath": "_framework/dotnet.native.8.0.5.whbh2uttz1.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -166,7 +166,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dayar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.3\\runtimes\\browser-wasm\\native\\dotnet.native.js"
+      "OriginalItemSpec": "C:\\Users\\dayar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.5\\runtimes\\browser-wasm\\native\\dotnet.native.js"
     },
     {
       "Identity": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
@@ -185,15 +185,15 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dayar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.3\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
+      "OriginalItemSpec": "C:\\Users\\dayar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.5\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
     },
     {
-      "Identity": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.3.bn93b4dwuu.js",
+      "Identity": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.5.bmyiunk75p.js",
       "SourceId": "CycleHive.Client",
       "SourceType": "Project",
       "ContentRoot": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.3.bn93b4dwuu.js",
+      "RelativePath": "_framework/dotnet.runtime.8.0.5.bmyiunk75p.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -204,7 +204,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dayar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.3\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
+      "OriginalItemSpec": "C:\\Users\\dayar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.5\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
     },
     {
       "Identity": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
@@ -223,7 +223,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dayar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.3\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
+      "OriginalItemSpec": "C:\\Users\\dayar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.5\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
     },
     {
       "Identity": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
@@ -242,7 +242,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dayar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.3\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
+      "OriginalItemSpec": "C:\\Users\\dayar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.5\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
     },
     {
       "Identity": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
@@ -261,7 +261,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dayar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.3\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
+      "OriginalItemSpec": "C:\\Users\\dayar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.5\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
     },
     {
       "Identity": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
@@ -280,7 +280,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dayar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.3\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
+      "OriginalItemSpec": "C:\\Users\\dayar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.5\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
     },
     {
       "Identity": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.wasm",
@@ -3969,6 +3969,25 @@
       "OriginalItemSpec": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.Numerics.wasm"
     },
     {
+      "Identity": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\obj\\Debug\\net8.0\\compressed\\0zquz98swc.gz",
+      "SourceId": "CycleHive.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
+    },
+    {
       "Identity": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\obj\\Debug\\net8.0\\compressed\\130w2jirks.gz",
       "SourceId": "CycleHive.Client",
       "SourceType": "Project",
@@ -4159,6 +4178,25 @@
       "OriginalItemSpec": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Xml.XmlDocument.wasm"
     },
     {
+      "Identity": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\obj\\Debug\\net8.0\\compressed\\2bcdp54vc5.gz",
+      "SourceId": "CycleHive.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js"
+    },
+    {
       "Identity": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\obj\\Debug\\net8.0\\compressed\\2ddvofibc2.gz",
       "SourceId": "CycleHive.Client",
       "SourceType": "Project",
@@ -4216,6 +4254,25 @@
       "OriginalItemSpec": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.WebClient.wasm"
     },
     {
+      "Identity": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\obj\\Debug\\net8.0\\compressed\\36v835x8st.gz",
+      "SourceId": "CycleHive.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
+    },
+    {
       "Identity": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\obj\\Debug\\net8.0\\compressed\\3f3c52weju.gz",
       "SourceId": "CycleHive.Client",
       "SourceType": "Project",
@@ -4252,6 +4309,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Collections.NonGeneric.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\obj\\Debug\\net8.0\\compressed\\3mdp2hwv22.gz",
+      "SourceId": "CycleHive.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
     },
     {
       "Identity": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\obj\\Debug\\net8.0\\compressed\\3tvk7414rr.gz",
@@ -4328,6 +4404,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.AppContext.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\obj\\Debug\\net8.0\\compressed\\4bh6p3eqdu.gz",
+      "SourceId": "CycleHive.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm"
     },
     {
       "Identity": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\obj\\Debug\\net8.0\\compressed\\4htg913yac.gz",
@@ -4843,25 +4938,6 @@
       "OriginalItemSpec": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Xml.XPath.XDocument.wasm"
     },
     {
-      "Identity": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\obj\\Debug\\net8.0\\compressed\\8fq3y7ihlm.gz",
-      "SourceId": "CycleHive.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.3.8fq3y7ihlm.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.3.8fq3y7ihlm.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.3.8fq3y7ihlm.js"
-    },
-    {
       "Identity": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\obj\\Debug\\net8.0\\compressed\\8j7wzkjb1a.gz",
       "SourceId": "CycleHive.Client",
       "SourceType": "Project",
@@ -5090,23 +5166,23 @@
       "OriginalItemSpec": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Transactions.wasm"
     },
     {
-      "Identity": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\obj\\Debug\\net8.0\\compressed\\bn93b4dwuu.gz",
+      "Identity": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\obj\\Debug\\net8.0\\compressed\\bmyiunk75p.gz",
       "SourceId": "CycleHive.Client",
       "SourceType": "Project",
       "ContentRoot": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.3.bn93b4dwuu.js.gz",
+      "RelativePath": "_framework/dotnet.runtime.8.0.5.bmyiunk75p.js.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.3.bn93b4dwuu.js",
+      "RelatedAsset": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.5.bmyiunk75p.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.3.bn93b4dwuu.js"
+      "OriginalItemSpec": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.5.bmyiunk75p.js"
     },
     {
       "Identity": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\obj\\Debug\\net8.0\\compressed\\bql5gpu05h.gz",
@@ -5698,25 +5774,6 @@
       "OriginalItemSpec": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Linq.Parallel.wasm"
     },
     {
-      "Identity": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\obj\\Debug\\net8.0\\compressed\\g695tt3ezq.gz",
-      "SourceId": "CycleHive.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
-    },
-    {
       "Identity": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\obj\\Debug\\net8.0\\compressed\\g9tw5iasut.gz",
       "SourceId": "CycleHive.Client",
       "SourceType": "Project",
@@ -5981,6 +6038,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.CompilerServices.Unsafe.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\obj\\Debug\\net8.0\\compressed\\i4iqfjuko6.gz",
+      "SourceId": "CycleHive.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map"
     },
     {
       "Identity": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\obj\\Debug\\net8.0\\compressed\\i8p5hup3yc.gz",
@@ -6838,25 +6914,6 @@
       "OriginalItemSpec": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Private.Xml.wasm"
     },
     {
-      "Identity": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\obj\\Debug\\net8.0\\compressed\\r763p0c8mi.gz",
-      "SourceId": "CycleHive.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.wasm.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm"
-    },
-    {
       "Identity": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\obj\\Debug\\net8.0\\compressed\\rhqug3ik9d.gz",
       "SourceId": "CycleHive.Client",
       "SourceType": "Project",
@@ -6933,25 +6990,6 @@
       "OriginalItemSpec": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.wasm"
     },
     {
-      "Identity": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\obj\\Debug\\net8.0\\compressed\\rxv5i7ah5x.gz",
-      "SourceId": "CycleHive.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
-    },
-    {
       "Identity": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\obj\\Debug\\net8.0\\compressed\\s5p833ee8q.gz",
       "SourceId": "CycleHive.Client",
       "SourceType": "Project",
@@ -6969,25 +7007,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Formats.Asn1.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\obj\\Debug\\net8.0\\compressed\\swt01fiknu.gz",
-      "SourceId": "CycleHive.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map"
     },
     {
       "Identity": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\obj\\Debug\\net8.0\\compressed\\t8q8e18snl.gz",
@@ -7140,25 +7159,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.InteropServices.JavaScript.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\obj\\Debug\\net8.0\\compressed\\ucfnw41edi.gz",
-      "SourceId": "CycleHive.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat"
     },
     {
       "Identity": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\obj\\Debug\\net8.0\\compressed\\v4qh4pxffk.gz",
@@ -7368,6 +7368,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Text.Json.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\obj\\Debug\\net8.0\\compressed\\whbh2uttz1.gz",
+      "SourceId": "CycleHive.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.8.0.5.whbh2uttz1.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.5.whbh2uttz1.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.5.whbh2uttz1.js"
     },
     {
       "Identity": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\obj\\Debug\\net8.0\\compressed\\whjmel9zsa.gz",
@@ -7617,23 +7636,23 @@
       "OriginalItemSpec": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Numerics.wasm"
     },
     {
-      "Identity": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\obj\\Debug\\net8.0\\compressed\\yb00f3vbor.gz",
+      "Identity": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\obj\\Debug\\net8.0\\compressed\\ycdnvczfyy.gz",
       "SourceId": "CycleHive.Client",
       "SourceType": "Project",
       "ContentRoot": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.gz",
+      "RelativePath": "_framework/icudt_CJK.dat.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js",
+      "RelatedAsset": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js"
+      "OriginalItemSpec": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat"
     },
     {
       "Identity": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\obj\\Debug\\net8.0\\compressed\\yi19rmtg0f.gz",
@@ -7672,25 +7691,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.WebHeaderCollection.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\obj\\Debug\\net8.0\\compressed\\ymqrp6v3eo.gz",
-      "SourceId": "CycleHive.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
     },
     {
       "Identity": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive.Client\\obj\\Debug\\net8.0\\compressed\\ytqd0035j3.gz",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i3IvAvIvkO0=",
+  "dgSpecHash": "pIvgYlq1Bzg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive\\CycleHive 1.0.csproj",
+  "projectFilePath": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive\\CycleHive.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dayar\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\dayar\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

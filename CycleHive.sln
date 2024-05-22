@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CycleHive 1.0", "CycleHive\CycleHive\CycleHive 1.0.csproj", "{11EDF65E-A36A-4E68-A90A-F4E6881B49F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CycleHive", "CycleHive\CycleHive\CycleHive.csproj", "{11EDF65E-A36A-4E68-A90A-F4E6881B49F5}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CycleHive.Client", "CycleHive\CycleHive.Client\CycleHive.Client.csproj", "{24280366-6128-4452-89D7-829EEE167D70}"
 EndProject

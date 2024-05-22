@@ -4833,9 +4833,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive\\CycleHive 1.0.csproj",
-      "projectName": "CycleHive 1.0",
-      "projectPath": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive\\CycleHive 1.0.csproj",
+      "projectUniqueName": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive\\CycleHive.csproj",
+      "projectName": "CycleHive",
+      "projectPath": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive\\CycleHive.csproj",
       "packagesPath": "C:\\Users\\dayar\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive\\obj\\",
       "projectStyle": "PackageReference",

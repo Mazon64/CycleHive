@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CycleHive.Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+489447a7e95ebcb14eb6eec9c168b108c1546e08")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d8c70afbdc9941f229d4b39ff6b1e3dcd7ed05e")]
 [assembly: System.Reflection.AssemblyProductAttribute("CycleHive.Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CycleHive.Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

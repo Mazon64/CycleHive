@@ -1,15 +1,15 @@
 {
   "mainAssemblyName": "CycleHive.Client",
   "resources": {
-    "hash": "sha256-zaha1kZCY0yTKKqQL0QPdDhsZkCW/wSdg4ZU0ZdA2W4=",
+    "hash": "sha256-schZ9SpvWTZlYZ861qvK/7AcKTiDdezIsBGQKgFUo8Q=",
     "jsModuleNative": {
-      "dotnet.native.8.0.3.8fq3y7ihlm.js": "sha256-D4sYBYmDfH/YekgYRgX959/2RG6k28sJSHmcsn+iikk="
+      "dotnet.native.8.0.5.whbh2uttz1.js": "sha256-boyHe+0RMZDkzBKGhsrnXPhPg3oZ6UqJnTUzngJPjNY="
     },
     "jsModuleRuntime": {
-      "dotnet.runtime.8.0.3.bn93b4dwuu.js": "sha256-eQgtmRxLcbxYmADDa49CHs/GuJ7nM6d/UFWo4EVhuIw="
+      "dotnet.runtime.8.0.5.bmyiunk75p.js": "sha256-5oi05+Ql/1JzyAphppAHmbRquli4a3/0XLMa8mQDKn8="
     },
     "wasmNative": {
-      "dotnet.native.wasm": "sha256-eVeGwMx+BfzNeU727VmCADSEBzGFWGkvJAX0XZdSVkQ="
+      "dotnet.native.wasm": "sha256-b3QtgAqvT5FoNyYgoEYsdE4zF5C1Is6lhQ8VEkROor8="
     },
     "icu": {
       "icudt_CJK.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
@@ -208,10 +208,10 @@
       "mscorlib.wasm": "sha256-/xjZuJwCmantx5vGyH5ZZ8keySSTeu+YHKQRJbZzcuM=",
       "netstandard.wasm": "sha256-vuFKmCGJbyv85DrzI6S1ZvCikuhIllH6hqbXIL+fUAA=",
       "System.Private.CoreLib.wasm": "sha256-SZkozEDkHEFN0VaDmhl2HOenGaqTOmHqEGkraz3Aejc=",
-      "CycleHive.Client.wasm": "sha256-t3+tV93xxcuh7O3UOmqITmikeL+SxYpg3y8ZyiZ3cIY="
+      "CycleHive.Client.wasm": "sha256-+ssPgr3xaZaRZ3iQ1CCWlQl7OlXS45prn08PeWz869Y="
     },
     "pdb": {
-      "CycleHive.Client.pdb": "sha256-jY3b23YlhB9wseQn7D0e9XEmxaSYegv7kmmeIcuRk9s="
+      "CycleHive.Client.pdb": "sha256-zdjROuw7c3Alvj4+mnqInfpyLWoqNTX6KUDudVGEBtE="
     }
   },
   "cacheBootResources": true,

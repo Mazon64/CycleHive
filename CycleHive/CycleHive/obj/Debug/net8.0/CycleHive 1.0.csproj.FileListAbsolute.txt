@@ -1,0 +1,7 @@
+C:\Users\dayar\OneDrive\Documentos\Visual Studio 2022\source\repos\CycleHive\CycleHive\CycleHive\obj\Debug\net8.0\CycleHive 1.0.csproj.AssemblyReference.cache
+C:\Users\dayar\OneDrive\Documentos\Visual Studio 2022\source\repos\CycleHive\CycleHive\CycleHive\obj\Debug\net8.0\CycleHive 1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dayar\OneDrive\Documentos\Visual Studio 2022\source\repos\CycleHive\CycleHive\CycleHive\obj\Debug\net8.0\CycleHive 1.0.AssemblyInfoInputs.cache
+C:\Users\dayar\OneDrive\Documentos\Visual Studio 2022\source\repos\CycleHive\CycleHive\CycleHive\obj\Debug\net8.0\CycleHive 1.0.AssemblyInfo.cs
+C:\Users\dayar\OneDrive\Documentos\Visual Studio 2022\source\repos\CycleHive\CycleHive\CycleHive\obj\Debug\net8.0\CycleHive 1.0.csproj.CoreCompileInputs.cache
+C:\Users\dayar\OneDrive\Documentos\Visual Studio 2022\source\repos\CycleHive\CycleHive\CycleHive\obj\Debug\net8.0\CycleHive 1.0.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dayar\OneDrive\Documentos\Visual Studio 2022\source\repos\CycleHive\CycleHive\CycleHive\obj\Debug\net8.0\CycleHive 1.0.sourcelink.json
