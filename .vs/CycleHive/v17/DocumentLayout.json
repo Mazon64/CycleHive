@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{11EDF65E-A36A-4E68-A90A-F4E6881B49F5}|CycleHive\\CycleHive\\CycleHive.csproj|c:\\users\\dayar\\onedrive\\documentos\\visual studio 2022\\source\\repos\\cyclehive\\cyclehive\\cyclehive\\components\\pages\\alquilerform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{11EDF65E-A36A-4E68-A90A-F4E6881B49F5}|CycleHive\\CycleHive\\CycleHive.csproj|solutionrelative:cyclehive\\cyclehive\\components\\pages\\alquilerform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{11EDF65E-A36A-4E68-A90A-F4E6881B49F5}|CycleHive\\CycleHive\\CycleHive 1.0.csproj|c:\\users\\dayar\\onedrive\\documentos\\visual studio 2022\\source\\repos\\cyclehive\\cyclehive\\cyclehive\\components\\pages\\alquilerform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11EDF65E-A36A-4E68-A90A-F4E6881B49F5}|CycleHive\\CycleHive\\CycleHive 1.0.csproj|solutionrelative:cyclehive\\cyclehive\\components\\pages\\alquilerform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11EDF65E-A36A-4E68-A90A-F4E6881B49F5}|CycleHive\\CycleHive\\CycleHive.csproj|c:\\users\\dayar\\onedrive\\documentos\\visual studio 2022\\source\\repos\\cyclehive\\cyclehive\\cyclehive\\components\\pages\\alquilerindex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{11EDF65E-A36A-4E68-A90A-F4E6881B49F5}|CycleHive\\CycleHive\\CycleHive.csproj|solutionrelative:cyclehive\\cyclehive\\components\\pages\\alquilerindex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{11EDF65E-A36A-4E68-A90A-F4E6881B49F5}|CycleHive\\CycleHive\\CycleHive 1.0.csproj|c:\\users\\dayar\\onedrive\\documentos\\visual studio 2022\\source\\repos\\cyclehive\\cyclehive\\cyclehive\\components\\pages\\alquilerindex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11EDF65E-A36A-4E68-A90A-F4E6881B49F5}|CycleHive\\CycleHive\\CycleHive 1.0.csproj|solutionrelative:cyclehive\\cyclehive\\components\\pages\\alquilerindex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11EDF65E-A36A-4E68-A90A-F4E6881B49F5}|CycleHive\\CycleHive\\CycleHive.csproj|c:\\users\\dayar\\onedrive\\documentos\\visual studio 2022\\source\\repos\\cyclehive\\cyclehive\\cyclehive\\models\\alquiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11EDF65E-A36A-4E68-A90A-F4E6881B49F5}|CycleHive\\CycleHive\\CycleHive.csproj|solutionrelative:cyclehive\\cyclehive\\models\\alquiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11EDF65E-A36A-4E68-A90A-F4E6881B49F5}|CycleHive\\CycleHive\\CycleHive 1.0.csproj|c:\\users\\dayar\\onedrive\\documentos\\visual studio 2022\\source\\repos\\cyclehive\\cyclehive\\cyclehive\\models\\bicicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EDF65E-A36A-4E68-A90A-F4E6881B49F5}|CycleHive\\CycleHive\\CycleHive 1.0.csproj|solutionrelative:cyclehive\\cyclehive\\models\\bicicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11EDF65E-A36A-4E68-A90A-F4E6881B49F5}|CycleHive\\CycleHive\\CycleHive.csproj|c:\\users\\dayar\\onedrive\\documentos\\visual studio 2022\\source\\repos\\cyclehive\\cyclehive\\cyclehive\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{11EDF65E-A36A-4E68-A90A-F4E6881B49F5}|CycleHive\\CycleHive\\CycleHive.csproj|solutionrelative:cyclehive\\cyclehive\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{11EDF65E-A36A-4E68-A90A-F4E6881B49F5}|CycleHive\\CycleHive\\CycleHive 1.0.csproj|c:\\users\\dayar\\onedrive\\documentos\\visual studio 2022\\source\\repos\\cyclehive\\cyclehive\\cyclehive\\models\\alquiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EDF65E-A36A-4E68-A90A-F4E6881B49F5}|CycleHive\\CycleHive\\CycleHive 1.0.csproj|solutionrelative:cyclehive\\cyclehive\\models\\alquiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11EDF65E-A36A-4E68-A90A-F4E6881B49F5}|CycleHive\\CycleHive\\CycleHive.csproj|c:\\users\\dayar\\onedrive\\documentos\\visual studio 2022\\source\\repos\\cyclehive\\cyclehive\\cyclehive\\models\\bicicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11EDF65E-A36A-4E68-A90A-F4E6881B49F5}|CycleHive\\CycleHive\\CycleHive.csproj|solutionrelative:cyclehive\\cyclehive\\models\\bicicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11EDF65E-A36A-4E68-A90A-F4E6881B49F5}|CycleHive\\CycleHive\\CycleHive 1.0.csproj|c:\\users\\dayar\\onedrive\\documentos\\visual studio 2022\\source\\repos\\cyclehive\\cyclehive\\cyclehive\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11EDF65E-A36A-4E68-A90A-F4E6881B49F5}|CycleHive\\CycleHive\\CycleHive 1.0.csproj|solutionrelative:cyclehive\\cyclehive\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Bicicleta.cs",
               "DocumentMoniker": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive\\Models\\Bicicleta.cs",
               "RelativeDocumentMoniker": "CycleHive\\CycleHive\\Models\\Bicicleta.cs",
@@ -58,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Alquiler.cs",
               "DocumentMoniker": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive\\Models\\Alquiler.cs",
               "RelativeDocumentMoniker": "CycleHive\\CycleHive\\Models\\Alquiler.cs",
@@ -76,14 +76,14 @@
               "RelativeDocumentMoniker": "CycleHive\\CycleHive\\Components\\Pages\\AlquilerForm.razor",
               "ToolTip": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive\\Components\\Pages\\AlquilerForm.razor",
               "RelativeToolTip": "CycleHive\\CycleHive\\Components\\Pages\\AlquilerForm.razor",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAAJYAAAABAAAA",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAAAJYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-22T15:44:50.22Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "CycleHive\\CycleHive\\Components\\Layout\\NavMenu.razor",
