@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "CycleHive\\CycleHive\\Components\\Pages\\AlquilerIndex.razor",
               "ToolTip": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive\\Components\\Pages\\AlquilerIndex.razor",
               "RelativeToolTip": "CycleHive\\CycleHive\\Components\\Pages\\AlquilerIndex.razor",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAFUAAAABAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAFUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-22T16:08:55.578Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "CycleHive\\CycleHive\\Models\\Bicicleta.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T15:54:06.192Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T15:54:06.192Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "CycleHive\\CycleHive\\Models\\Alquiler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T15:53:57.11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T15:53:57.11Z"
             },
             {
               "$type": "Document",
@@ -79,7 +77,7 @@
               "RelativeDocumentMoniker": "CycleHive\\CycleHive\\Components\\Pages\\AlquilerForm.razor",
               "ToolTip": "C:\\Users\\dayar\\OneDrive\\Documentos\\Visual Studio 2022\\source\\repos\\CycleHive\\CycleHive\\CycleHive\\Components\\Pages\\AlquilerForm.razor",
               "RelativeToolTip": "CycleHive\\CycleHive\\Components\\Pages\\AlquilerForm.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJYAAAABAAAA",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAJYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-22T15:44:50.22Z",
               "EditorCaption": ""
@@ -94,8 +92,7 @@
               "RelativeToolTip": "CycleHive\\CycleHive\\Components\\Layout\\NavMenu.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-22T15:38:09.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T15:38:09.298Z"
             }
           ]
         }
