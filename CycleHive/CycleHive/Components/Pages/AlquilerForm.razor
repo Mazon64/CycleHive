@@ -29,7 +29,7 @@
     <div class="row mb-3">
         <label for="cboBicicleta" class="col-sm-2 col-form-label">Bicicleta</label>
         <div class="col-sm-10">
-            <InputSelect id="cboBicicleta" class="form-control" @bind-Value="_alquiler.BicicletaId" @onchange="ActualizarPrecioTotal">
+            <InputSelect id="cboBicicleta" class="form-control" @bind-Value="_alquiler.BicicletaId" @onselect="ActualizarPrecioTotal">
                 <option value="">Seleccione una bicicleta</option>
                 @if (_bicicletas != null)
                 {
@@ -46,7 +46,7 @@
     <div class="row mb-3">
         <label for="dtpFechaInicio" class="col-sm-2 col-form-label">Fecha de inicio</label>
         <div class="col-sm-10">
-            <InputDate id="dtpFechaInicio" class="form-control" @bind-Value="_alquiler.FechaInicio" min="@_minFecha" max="@_maxFecha" @onchange="ActualizarPrecioTotal" />
+            <InputDate id="dtpFechaInicio" class="form-control" @bind-Value="_alquiler.FechaInicio" min="@_minFecha" max="@_maxFecha" @onselect="ActualizarPrecioTotal" />
             <ValidationMessage For="@(() => _alquiler.FechaInicio)" />
         </div>
     </div>
@@ -54,7 +54,7 @@
     <div class="row mb-3">
         <label for="dtpFechaFin" class="col-sm-2 col-form-label">Fecha de fin</label>
         <div class="col-sm-10">
-            <InputDate id="dtpFechaFin" class="form-control" @bind-Value="_alquiler.FechaFin" min="@_minFecha" max="@_maxFecha" @onchange="ActualizarPrecioTotal" />
+            <InputDate id="dtpFechaFin" class="form-control" @bind-Value="_alquiler.FechaFin" min="@_minFecha" max="@_maxFecha" @onselect="ActualizarPrecioTotal" />
             <ValidationMessage For="@(() => _alquiler.FechaFin)" />
         </div>
     </div>
@@ -65,7 +65,7 @@
             <input id="txtPrecioTotal" class="form-control" type="text" value="@PrecioTotal.ToString("C")" readonly />
         </div>
     </div>
-
+    <input type="button" class="btn btn-secondary" @onclick="ActualizarPrecioTotal" value="Calcular costo total" />
     <button type="submit" class="btn btn-primary">Guardar</button>
     <button class="btn btn-danger" @onclick="Cancelar" @onclick:preventDefault>Cancelar</button>
 </EditForm>

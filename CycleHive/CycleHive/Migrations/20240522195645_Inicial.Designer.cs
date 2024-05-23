@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace CycleHive.Migrations
 {
     [DbContext(typeof(CycleHiveDbContext))]
-    [Migration("20240522165333_Inicial")]
+    [Migration("20240522195645_Inicial")]
     partial class Inicial
     {
         /// <inheritdoc />

@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "CycleHive.Client",
   "resources": {
-    "hash": "sha256-schZ9SpvWTZlYZ861qvK/7AcKTiDdezIsBGQKgFUo8Q=",
+    "hash": "sha256-7w/h4ITs8Sgv3gFyLQL1QejXrh+o3NefY/XBhihMMwE=",
     "jsModuleNative": {
       "dotnet.native.8.0.5.whbh2uttz1.js": "sha256-boyHe+0RMZDkzBKGhsrnXPhPg3oZ6UqJnTUzngJPjNY="
     },
@@ -208,10 +208,10 @@
       "mscorlib.wasm": "sha256-/xjZuJwCmantx5vGyH5ZZ8keySSTeu+YHKQRJbZzcuM=",
       "netstandard.wasm": "sha256-vuFKmCGJbyv85DrzI6S1ZvCikuhIllH6hqbXIL+fUAA=",
       "System.Private.CoreLib.wasm": "sha256-SZkozEDkHEFN0VaDmhl2HOenGaqTOmHqEGkraz3Aejc=",
-      "CycleHive.Client.wasm": "sha256-+ssPgr3xaZaRZ3iQ1CCWlQl7OlXS45prn08PeWz869Y="
+      "CycleHive.Client.wasm": "sha256-p8pUW1pwQ5mwksHLXHYIlyxQuOzEvMOP52IcDfaX9tY="
     },
     "pdb": {
-      "CycleHive.Client.pdb": "sha256-zdjROuw7c3Alvj4+mnqInfpyLWoqNTX6KUDudVGEBtE="
+      "CycleHive.Client.pdb": "sha256-p5vn5GshF8RqGoPL6fdXx89ynlM1RzSMlUbmv0D7LGE="
     }
   },
   "cacheBootResources": true,
