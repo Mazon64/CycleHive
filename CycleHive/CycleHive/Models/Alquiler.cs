@@ -33,12 +33,12 @@ namespace CycleHive.Models
 
             if (FechaInicio < minFecha || FechaInicio > maxFecha)
             {
-                yield return new ValidationResult($"La fecha de inicio debe estar entre {minFecha:yyyy-MM-dd} y {maxFecha:yyyy-MM-dd}", new[] { nameof(FechaInicio) });
+                yield return new ValidationResult($"La fecha de inicio debe estar entre {minFecha:dd-MM-dd} y {maxFecha:dd-MM-yyyy}", new[] { nameof(FechaInicio) });
             }
 
             if (FechaFin < minFecha || FechaFin > maxFecha)
             {
-                yield return new ValidationResult($"La fecha de fin debe estar entre {minFecha:yyyy-MM-dd} y {maxFecha:yyyy-MM-dd}", new[] { nameof(FechaFin) });
+                yield return new ValidationResult($"La fecha de fin debe estar entre {minFecha:dd-MM-yyyy} y {maxFecha:dd-MM-yyyy}", new[] { nameof(FechaFin) });
             }
 
             if (FechaInicio > FechaFin)
